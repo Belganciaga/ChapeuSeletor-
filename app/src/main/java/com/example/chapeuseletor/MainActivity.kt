@@ -1,3 +1,6 @@
+// Aluna: Thais Alexandra Vtoria Rodrigues
+// RA: 40877224094
+
 package com.example.chapeuseletor
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
